@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# App-Kasir
-App-Kasir merupakah aplikasi yang di buat dari bahasa pemrograman PHP berbasis OOP
-=======
 <h1 align="center">Selamat datang di App - Kasir! 👋</h1>
 
 ![User Interface](https://github.com/machfudin37/App-Kasir/blob/main/userinterface.PNG?raw=true)
@@ -32,4 +28,3 @@ git clone https://github.com/machfudin37/App-Kasir.git
 
 # App-Kasir
 App-Kasir merupakan aplikasi yang di buat dari bahasa pemrograman PHP berbasis OOP.
->>>>>>> 7bff5f4 (Upload)
